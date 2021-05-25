@@ -16,3 +16,5 @@ Data Analysis with Python Badge: https://www.credly.com/badges/21f9a7c4-126e-422
 Data Visualization with Python Badge: https://www.credly.com/badges/8870eb52-b3d0-4d0d-888b-3dab35c44731/public_url
 
 Machine Learning with Python Badge: https://www.credly.com/badges/67d395fc-d06c-495d-8cf0-ea0f664f6eb4/public_url
+
+Applied Data Science Capstone Badge: https://www.credly.com/badges/783c35bc-95e4-4ffc-b8ac-a06263b1d763/public_url
